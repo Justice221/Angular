@@ -1,4 +1,10 @@
 <!--The content below is only a placeholder and can be replaced.-->
 
+<!-- <mat-card>Simple card</mat-card> -->
+<div class="card card-block" *ngFor="let ques of test">
+<h4 class="card-title">{{ques.questions}}</h4>
+<p class="card-text">{{ques.answers}}</p>
+</div>
+
 
 <router-outlet></router-outlet>
