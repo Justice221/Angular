@@ -1,5 +1,7 @@
 # Dashboard
 
+![name-of-you-image](https://github.com/Justice221/Angular/blob/master/Dashboard/Admin%20Dashboard.png?raw=true)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
 ## Development server
